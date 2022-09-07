@@ -1,8 +1,8 @@
 # Andrey Vasylyuk
 
 ## Contacts
-- E-mail:  AndreyVasylyuk@gmail.com
-- Discord: AndreyVasylyuk#8579
+* E-mail:  AndreyVasylyuk@gmail.com
+* Discord: AndreyVasylyuk#8579
 
 ## About me
 A year ago I tried to learn JS and other front-end things, but realized, that backend languages with its static typization and other tremendous features pulled me into their world. Now I'm trying to "eat" front-end piece by piece and my aim is to get to the high level of NodeJS and VueJS knowladge through the basics of front-end.
@@ -53,6 +53,6 @@ class Main {
 Bachelor of Mathematics
 
 ## Languages
-- English - B2 (Intermediate level)
-- Polish - Basic
-- Ukrainian - Native
+* English - B2 (Intermediate level)
+* Polish - Basic
+* Ukrainian - Native
