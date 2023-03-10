@@ -16,7 +16,29 @@ They say, chat GPT will be better programmer in a few years. I can't agree with 
 
 ## Code example
 ```
+import java.util.Scanner;
 
+class EvenUpperCase {
+
+    public static String upperEvenLetters(String message) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < message.length(); i++) {
+            if (i == 0 || i % 2 == 0) {
+                sb.append(Character.toUpperCase(message.charAt(i)));
+            } else {
+                sb.append(message.charAt(i));
+            }
+        }
+        return sb.toString();
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String message = scanner.next();
+
+        System.out.println(upperEvenLetters(message));
+    }
+}
 ```
 
 ## Courses
